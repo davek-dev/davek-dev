@@ -13,13 +13,13 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://github.com/davek-dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/davek17" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">🚀 Principal Software Engineer with a passion for .NET, C#, and AWS. Specialises in building scalable cloud solutions and leading teams to deliver high-impact software. When not coding, I'm a proud dad of one and enjoy spending time going on adventures with my family. Based in Manchester, UK</h3>**
+ **<h3 align="left">🚀 Principal Software Engineer with an unshakable passion for .NET, C#, and AWS. I specialise in architecting scalable, cutting-edge cloud solutions and leading high-performing teams to deliver software that truly makes a difference. When I'm not immersed in code, you'll find me embracing the adventure of fatherhood, exploring the world with my family. Proudly based in Manchester, UK. 🌍</h3>**
 
-**<h3 align="left">Rapid Fire</h3>**
+**<h3 align="left">Rapid Fire Insights 🔥</h3>**
 
-- 💼 I'm currently working on: **🏢 Large scale buiness solutions in the financial sector, primarily using C# and AWS**
-- 🌱 I'm currently learning: **📚 Semantic Kernel, MAUI, Go, Python, IoT**
-- 💬 Ask me about: **💡 C#, AWS, MongoDb, SQL, Docker, Kubernetes**
+- 💼 Current Mission: **Shaping the future of large-scale business solutions in the financial sector, leveraging the power of C# and AWS to drive innovation and reliability.**
+- 🌱 Growth Mode: **Diving deep into Semantic Kernel, MAUI, Go, Python, and IoT—exploring the cutting edge to stay ahead of the curve.**
+- 💬 Chat with Me About: **Anything C#, AWS, MongoDB, SQL, Docker, Kubernetes—I love sharing insights, best practices, and war stories from the trenches of software development.**
 - 📝 Blog: **<a href="https://davek.dev" target="_blank">https://davek.dev</a>**
 
 
